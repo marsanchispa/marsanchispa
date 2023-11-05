@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mar (@marsanchispa), just starting to learn GitHub
+- 👋 Hi, I’m Mar (@marsanchispa), Telecom Engineer specialized in Front-End.
 - I love tech!
 - 📫 You can reach me at marsanchispa@hotmail.com or marsanchispa@gmail.com
 
